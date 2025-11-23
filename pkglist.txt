@@ -37,7 +37,6 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-numlockx
 nvidia-dkms
 nvidia-settings
 nvidia-utils
